@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Chounting Characters](/csc2330-fall2019/counting-chars-hansonbriley)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
