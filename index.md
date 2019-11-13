@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
 [Chounting Characters](https://github.com/csc2330-fall2019/counting-chars-hansonbriley)
 
