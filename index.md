@@ -2,13 +2,16 @@
 
 ---
 
-### Projects 
+### 
 
-[Chounting Characters](https://github.com/csc2330-fall2019/counting-chars-hansonbriley)
+[Chounting Characters] (October 2019) (https://github.com/csc2330-fall2019/counting-chars-hansonbriley)
 
 ---
 
-This was a class project that counts the number of indiviudal characters in a .txt file and outputs a set table with the results. 
+\begin{description}
+  \item[$\bullet$ Course Project]
+      \item[$\bullet$ CSC 2330 - Data Structures & Programming]
+\end{description} 
 
 ---
 
