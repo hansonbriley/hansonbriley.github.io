@@ -2,16 +2,10 @@
 
 ---
 
-### 
-
-[Chounting Characters] (October 2019) (https://github.com/csc2330-fall2019/counting-chars-hansonbriley)
+[Chounting Characters](https://github.com/csc2330-fall2019/counting-chars-hansonbriley)(October 2019)
 
 ---
-
-\begin{description}
-  \item[$\bullet$ Course Project]
-      \item[$\bullet$ CSC 2330 - Data Structures & Programming]
-\end{description} 
+ 
 
 ---
 
