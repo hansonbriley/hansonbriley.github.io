@@ -5,15 +5,21 @@
 [Chounting Characters](https://github.com/csc2330-fall2019/counting-chars-hansonbriley)(October 2019)
 
 ---
-"images/CountingCharacters.png" 
+- Course Project: CSC2330, Fall 2019
+- C++ with CLion
+- Takes in an input file, outputs total characters
+
+<img src="images/CountingCharacters.png?raw=true">
 
 ---
 
-[Three points](https://github.com/csc2330-fall2019/three-points-hansonbriley)
+[Three points](https://github.com/csc2330-fall2019/three-points-hansonbriley)(October 2019)
 
 ---
-
-Three points was an early class project. The program takes in three user input points, determines wether the points for a line or a triange. If the points form a line, the output will be slope and length. For a triangle, the program outputs area, perimeter, and the angles between them. 
-
+- Course Project: CSC2330, Fall 2019
+- C++ with CLion
+- Input three points, determines if the points form a line or a triangle
+ 
+<img src="images/angbiswhite1a.jpg?raw=true">
 ---
 
