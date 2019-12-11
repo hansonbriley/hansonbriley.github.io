@@ -2,7 +2,7 @@
 
 ---
 
-[Chounting Characters](https://github.com/csc2330-fall2019/counting-chars-hansonbriley)(October 2019)
+[Chounting Characters](https://github.com/csc2330-fall2019/counting-chars-hansonbriley) (October 2019)
 
 ---
 - Course Project: CSC2330, Fall 2019
@@ -13,7 +13,7 @@
 
 ---
 
-[Three points](https://github.com/csc2330-fall2019/three-points-hansonbriley)(October 2019)
+[Three points](https://github.com/csc2330-fall2019/three-points-hansonbriley) (October 2019)
 
 ---
 - Course Project: CSC2330, Fall 2019
