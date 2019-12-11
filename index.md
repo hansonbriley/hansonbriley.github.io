@@ -5,7 +5,7 @@
 [Chounting Characters](https://github.com/csc2330-fall2019/counting-chars-hansonbriley)(October 2019)
 
 ---
- 
+"images/CountingCharacters.png" 
 
 ---
 
