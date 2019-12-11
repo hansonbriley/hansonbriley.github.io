@@ -20,6 +20,6 @@
 - C++ with CLion
 - Input three points, determines if the points form a line or a triangle
  
-<img src="images/angbiswhite1a.v1.jpg?raw=true">
+<img src="images/angbiswhite1a_resized.png?raw=true">
 
 
