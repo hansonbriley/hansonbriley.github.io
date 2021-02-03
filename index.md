@@ -11,7 +11,7 @@
 - Programming Language: Scheme
 - This was an introduction to declaritive languages. The program allows the user to create points as well as calculate a few operations depending on the shape created by the user. 
 
-<img src="images/scheme.png?raw=true">
+<img src="images/scheme.PNG?raw=true">
 
 ---
 
