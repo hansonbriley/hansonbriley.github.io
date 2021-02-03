@@ -22,7 +22,7 @@
 - Input three points, determines if the points form a line or a triangle
  
 ---
-Microsoft Azure AI Engineer Associate (December 2021)
+<strong>Microsoft Azure AI Engineer Associate</strong> (December 2021)
 <br><br><img src="images/badge.png?raw=true">
 - Designed and implemented AI solutions using Microsoft Azure Cognitive Services, Azure Bot Service, and data storage in Azure.
 - Gained knowledge through experience and study of Azure AI services and the data storage options available.
