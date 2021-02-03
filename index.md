@@ -4,6 +4,8 @@
 Microsoft Azure AI Engineer Associate (December 2021)
 - Designed and implemented AI solutions using Microsoft Azure Cognitive Services, Azure Bot Service, and data storage in Azure.
 - Gained knowledge through experience and study of Azure AI services and the data storage options available.
+
+<img src="images/badge.png?raw=true">
 ---
 
 [Geometric Calculator](https://github.com/csc3310-fall2020/triangle-line-hansonbriley) (November 2020)
@@ -16,8 +18,6 @@ Microsoft Azure AI Engineer Associate (December 2021)
 ---
 
 [Chounting Characters](https://github.com/csc2330-fall2019/counting-chars-hansonbriley) (October 2019)
-
----
 - Course Project: CSC2330, Fall 2019
 - C++ with CLion
 - Takes in an input file, outputs total characters
@@ -27,8 +27,6 @@ Microsoft Azure AI Engineer Associate (December 2021)
 ---
 
 [Three points](https://github.com/csc2330-fall2019/three-points-hansonbriley) (October 2019)
-
----
 - Course Project: CSC2330, Fall 2019
 - C++ with CLion
 - Input three points, determines if the points form a line or a triangle
