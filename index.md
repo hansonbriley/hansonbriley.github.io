@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-[Microsoft Azure AI Engineer Associate] (December 2021)
+Microsoft Azure AI Engineer Associate (December 2021)
 - Designed and implemented AI solutions using Microsoft Azure Cognitive Services, Azure Bot Service, and data storage in Azure.
 - Gained knowledge through experience and study of Azure AI services and the data storage options available.
 ---
