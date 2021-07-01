@@ -1,5 +1,14 @@
 ## Portfolio
 
+
+---
+[aYo](https://github.com/JorgeRamirez7/aYo) (June 2021)
+
+- Capstone Project: Software Engineering I & II, Winter & Spring 2021, Group
+- Programming Language: Python
+- aYo is a voice-assistant application created to aide software developers in their development process by providing searchability and direct access to programming language documentation websites, as well as other common voice-assistant features, through voice-command.
+- Personally implemented Microsoft Azure Cognitive Services SDK providing the project with the capability of voice input. Also integrated Spotify Web API, allowing users to link and control their Spotify accounts using aYo.
+
 ---
 [Geometric Calculator](https://github.com/csc3310-fall2020/triangle-line-hansonbriley) (November 2020)
 <br><br><img src="images/scheme.PNG?raw=true">
