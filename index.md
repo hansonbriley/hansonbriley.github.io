@@ -3,6 +3,7 @@
 
 ---
 [aYo](https://github.com/JorgeRamirez7/aYo) (June 2021)
+<br><br><img src="images/aYo-img.png?raw=true">
 
 - Capstone Project: Software Engineering I & II, Winter & Spring 2021, Group
 - Programming Language: Python
